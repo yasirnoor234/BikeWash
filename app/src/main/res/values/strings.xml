@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Bike Wash</string>
+    <string name="SignIn">Sign In</string>
+    <string name="Registration">Registration</string>
+    <string name="login">Login</string>
+
+    <string name="name">Enter Name</string>
+    <string name="email">Enter Email</string>
+    <string name="password">Enter Password</string>
+    <string name="cpassword">Confirm Password</string>
+    <string name="phone">Enter Phone Number</string>
+
+</resources>
